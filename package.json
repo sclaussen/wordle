@@ -1,0 +1,20 @@
+{
+  "name": "wordle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wordle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "collections": "^5.1.13",
+    "commander": "^10.0.0",
+    "debug": "^4.3.4",
+    "js-yaml": "^4.1.0",
+    "lodash": "^4.17.21",
+    "node": "^19.8.1"
+  }
+}
